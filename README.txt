@@ -1,3 +1,12 @@
+
+# Fork from Orange project
+# Create single Spyder.app for Mac OS
+# Usage: build-macos-app.sh <Path to spyder>.app
+## build-macos-app.sh Spyder3.app
+## have all basic packages: pandas, seaborn, scikit-learn. Can install other by using pip command inside the application bundle.
+
+
+
 Orange macOS application (.app) build scripts
 ---------------------------------------------
 
